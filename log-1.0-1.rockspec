@@ -1,5 +1,5 @@
 package = "log"
-version = "1.0"
+version = "1.0-1"
 source = {
    url = "git://github.com/mistrza/lua-log",
    tag = "v1.0",
