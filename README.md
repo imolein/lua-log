@@ -2,6 +2,8 @@
 
 This logging module is inspired by [rxi](https://github.com/rxi).
 
+![](screenshot.png)
+
 ## How to install?
 
 `luarocks install log`
@@ -21,5 +23,3 @@ log.trace('Test')
 log.info('Test')
 
 ```
-
-![](screenshot.png)
