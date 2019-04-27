@@ -23,3 +23,17 @@ log.trace('Test')
 log.info('Test')
 
 ```
+
+### Levels
+
+- Trace (`log.trace`)
+- Debug (`log.debug`)
+- Info (`log.info`)
+- Warn (`log.warn`)
+- Error (`log.error`)
+- Fatal (`log.fatal`)
+
+### Parameters
+
+- `log.usecolor`
+- `log.output_file`
