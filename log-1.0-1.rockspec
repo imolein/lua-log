@@ -5,7 +5,7 @@ source = {
    tag = "v1.0",
 }
 description = {
-   summary = "Logging module for lua",
+   summary = "Logging module for Lua",
    homepage = "http://github.com/mistrza/lua-log",
    license = "MIT"
 }
