@@ -21,7 +21,7 @@ log.modes = {
 
 for mode, color in pairs(log.modes) do
    log[mode] = function(msg)
-      local meta = string.format('[%s %s] ',
+      local meta = string.format('[%-6s%s] ',
          mode:upper(), os.date("%H:%M:%S"))
       
       local content
